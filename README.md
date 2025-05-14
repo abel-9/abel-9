@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##🔭 #I’m currently working on AI and machine learning research, focusing on agricultural applications like crop health monitoring and disease detection using drone imagery and CNNs.
+## 🔭 # I’m currently working on AI and machine learning research, focusing on agricultural applications like crop health monitoring and disease detection using drone imagery and CNNs.
 - 🌱 I’m currently learning advanced topics in deep learning, computer vision, and natural language processing.
 - 👯 I’m looking to collaborate on innovative AI/ML projects that solve real-world problems and create impact.
 - 🤔 I’m looking for help with applying deep learning models effectively on large-scale agricultural datasets.
