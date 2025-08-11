@@ -1,37 +1,50 @@
-## Hi there, My name is Abel Girmay 👋
+# 👋 Hi, I'm ABG
 
-Welcome to my GitHub profile! I'm a passionate and driven Computer Science student with a strong interest in solving real-world problems using technology—especially in the fields of Artificial Intelligence and Machine Learning.
+**Tech Enthusiast · System Architect · Co-founder @ OMNA Technologies**
 
----
+I'm a computer science student driven by a passion for architecting scalable, maintainable, and well-documented systems that solve both everyday and large-scale problems. At OMNA Technologies, I work to bring that philosophy to life—building tech that empowers and evolves.
 
-### 🔭 Currently Working On
-- **AI and Machine Learning research** focused on **agricultural applications** like crop health monitoring and disease detection using **drone imagery** and **Convolutional Neural Networks (CNNs)**.
-
-### 🌱 Currently Learning
-- Advanced concepts in:
-  - **Deep Learning**
-  - **Computer Vision**
-  - **Natural Language Processing**
-
-### 👯 Looking to Collaborate On
-- Impactful **AI/ML projects**
-- **Open-source contributions** that promote technological innovation
-
-### 🤔 Looking for Help With
-- Deploying and optimizing **deep learning models** for large-scale, real-world datasets
-
-### 💬 Ask Me About
-- **Python**
-- **Machine Learning & AI**
-- **Data Visualization**
-- **Web Development** (Frontend & Backend)
-
-### 📫 How to Reach Me
-- **Email:** [abelgirmay37@gmail.com](mailto:abelgirmay37@gmail.com)
-
-### ⚡ Fun Fact
-- I started programming out of pure curiosity about how computers work—and now I love building full-stack applications and exploring the power of AI!
+### ⚡ Motto
+**“Scalable, maintainable, best-architected systems—built to last and shape the future.”**
 
 ---
 
-Thanks for visiting my profile! Feel free to check out my repositories and connect with me.
+## 🧠 Philosophy & Approach
+
+- 💡 _Clarity in architecture is not optional—it's foundational._
+- 🛠️ I believe the structure and sustainability of code matter even more than the solution itself.
+- 🚀 I’m motivated by curiosity, innovation, and building systems that move humanity forward.
+
+---
+
+## 💻 Tech Stack & Focus
+
+- **Specialties:** Web apps · Mobile apps · Agentic AI experimentation
+- **Frameworks & Tools:** `ReactJS` · `VueJS` · `NestJS` · `React Native` · `Flutter` · `FastAPI`
+- **Current Focus:** Deep diving into system architecture and scalable design principles
+
+---
+
+## 🧩 Projects & Highlights
+
+- 🎓 **Scholarship Matcher (AI-powered)** – NLP-driven web app that parses and recommends matching scholarships to students based on profile and eligibility
+- 🧠 **Skill Management System** – Track, visualize, and share personal skill growth
+- 🌍 **Social Hub** – A platform to share stories, reflect, and connect
+- 🎨 **Children’s Coloring App** – Interactive color experiences for kids with custom fill logic
+
+---
+
+## 🌐 Vision
+
+I build purposeful, productive systems designed to make a difference—whether it’s elevating access, enhancing expression, or empowering communities.
+
+---
+
+## 📬 Let's Connect
+
+📧 Email: `abelgirmay37@gmail.com`  
+🤝 Open to collaboration, innovation, and meaningful code.
+
+---
+
+> _“Code is poetry when architecture meets intention.”_
