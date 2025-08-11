@@ -1,4 +1,4 @@
-# 👋 Hi, I'm ABG
+# 👋 Hi, I'm Abel Girmay
 
 **Tech Enthusiast · System Architect · Co-founder @ OMNA Technologies**
 
