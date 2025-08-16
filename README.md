@@ -2,7 +2,7 @@
 
 **Tech Enthusiast · System Architect · Co-founder @ OMNA Technologies**
 
-I'm a computer science student driven by a passion for architecting scalable, maintainable, and well-documented systems that solve both everyday and large-scale problems. At OMNA Technologies, I work to bring that philosophy to life—building tech that empowers and evolves.
+I'm a computer science student driven by a passion for architecting scalable, maintainable, and well-documented systems that solve both everyday and large-scale problems.
 
 ### ⚡ Motto
 **“Scalable, maintainable, best-architected systems—built to last and shape the future.”**
